@@ -16,6 +16,6 @@ public class GraphicsPanel extends Panel {
 		g.setColor(new Color(255, 255, 255));
 		g.fillRect(0,  0, this.getWidth(), this.getHeight());
 		g.setColor(new Color(0, 0, 0));
-		g.drawString("PLACEHOLDER", 100, 100);		
+		g.drawString("PLACEHOLDER", 100, 100);
 	}
 }
